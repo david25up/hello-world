@@ -1,3 +1,3 @@
 # hello-world
 first test repository
-# hi this is Matt David trying to to get checkpoint 7 on lab12
+# hi this is Matt David trying to to get checkpoints on lab12
